@@ -1,0 +1,38 @@
+{
+   "name": "cb-valid",
+   "version": "1.0.3",
+   "description": "👍 Validator very easy to use, and implement! 🏳‍🌈(email, url, password, .etc) 💕",
+   "main": "dist/src/index.js",
+   "scripts": {
+   },
+   "keywords": [
+      "form validation",
+      "validator",
+      "cb-valid",
+      "phone valid",
+      "email valid",
+      "valid phone"
+   ],
+   "author": "Yoni Calsin <helloyonicb@gmail.com> ",
+   "license": "MIT",
+   "devDependencies": {
+      "@types/jest": "^24.0.25",
+      "@types/node": "^13.1.2",
+      "del": "^5.1.0",
+      "gulp": "^4.0.2",
+      "gulp-sourcemaps": "^2.6.5",
+      "gulp-typescript": "^6.0.0-alpha.1",
+      "gulp-uglify": "^3.0.2",
+      "jest": "^24.9.0",
+      "ts-jest": "^24.2.0",
+      "tslint": "^5.20.1",
+      "typescript": "^3.7.4",
+      "vinyl-buffer": "^1.0.1"
+   },
+   "dependencies": {},
+   "peerDependencies": {},
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/yonicb/cb-valid"
+   }
+}
