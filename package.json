@@ -4,6 +4,8 @@
    "description": "👍 Validator very easy to use, and implement! 🏳‍🌈(email, url, password, .etc) 💕",
    "main": "dist/src/index.js",
    "scripts": {
+      "start": "gulp",
+      "build": "gulp prod"
    },
    "keywords": [
       "form validation",
