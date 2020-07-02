@@ -28,7 +28,7 @@
       "jest": "24.9.0",
       "ts-jest": "25.2.1",
       "tslint": "5.20.1",
-      "typescript": "3.8.2",
+      "typescript": "3.9.6",
       "vinyl-buffer": "1.0.1"
    },
    "dependencies": {},
